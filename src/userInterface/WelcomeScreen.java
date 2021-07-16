@@ -90,7 +90,11 @@ public class WelcomeScreen {
 						sf.search();
 
 						break;
-
+						
+                     default:
+                    	 System.out.println("Please enter a correct choice");
+                    	 System.out.println();
+                    	 
 
 					}
 
